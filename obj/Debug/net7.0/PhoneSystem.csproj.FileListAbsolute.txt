@@ -1,0 +1,15 @@
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\bin\Debug\net7.0\PhoneSystem.exe
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\bin\Debug\net7.0\PhoneSystem.deps.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\bin\Debug\net7.0\PhoneSystem.runtimeconfig.json
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\bin\Debug\net7.0\PhoneSystem.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\bin\Debug\net7.0\PhoneSystem.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\PhoneSystem.csproj.AssemblyReference.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\PhoneSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\PhoneSystem.AssemblyInfoInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\PhoneSystem.AssemblyInfo.cs
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\PhoneSystem.csproj.CoreCompileInputs.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\PhoneSystem.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\refint\PhoneSystem.dll
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\PhoneSystem.pdb
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\PhoneSystem.genruntimeconfig.cache
+C:\Users\51116869837\Desktop\Study Projects\Backend\PhoneSystem\obj\Debug\net7.0\ref\PhoneSystem.dll
